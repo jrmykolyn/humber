@@ -12,7 +12,8 @@
 		"editor.foreground": "#EEEEEE", 
 		"editor.selectionBackground": "#666666",
 		"editor.selectionForeground": "#111111",
-		"editor.inactiveSelectionBackground": "#999999"
+		"editor.inactiveSelectionBackground": "#999999",
+		"__BONUS__": "Using the Visual Studio Code theme documentation, style the 'activity bar'. https://code.visualstudio.com/api/references/theme-color"
 	},
 	"tokenColors": [
 		{
