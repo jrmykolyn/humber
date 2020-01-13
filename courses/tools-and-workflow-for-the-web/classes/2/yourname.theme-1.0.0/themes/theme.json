@@ -2,6 +2,12 @@
 	"name": "<Your Name Here>'s Theme",
 	"type": "dark",
 	"colors": {
+		"sideBar.background": "#111111",
+		"sideBar.border": "#666666",
+		"sideBarSectionHeader.background": "#111111",
+		"sideBar.foreground": "#EEEEEE",
+		"sideBarTitle.foreground": "#EEEEEE",
+		"sideBarSectionHeader.foreground": "#EEEEEE",
 		"editor.background": "#111111",
 		"editor.foreground": "#EEEEEE", 
 		"editor.selectionBackground": "#666666",
