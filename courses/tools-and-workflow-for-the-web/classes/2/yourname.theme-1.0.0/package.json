@@ -1,0 +1,21 @@
+{
+    "name": "<yourname>-theme",
+    "displayName": "<Your Name>'s Theme",
+    "description": "My first Visual Studio Code theme.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "<Your Name>'s Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+}
