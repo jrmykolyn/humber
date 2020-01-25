@@ -1,7 +1,11 @@
+## Part 1
+
+## Introduction
 Use this document as a starting point for Part 1 of the Class 4 exercise. Answer the each of the questions below and either:
   - Attach this document to your exercise submission email.
   - Or copy-and-paste the contents of this document into your submission email.
 
+## Questions
 Write the command (or commands) that will display the following message 'Hello from the command line.'
 <your-answer-here>
 
