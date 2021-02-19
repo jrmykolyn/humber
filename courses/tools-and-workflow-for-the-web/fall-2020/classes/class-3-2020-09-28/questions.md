@@ -12,7 +12,7 @@ Use this document as a starting point for Part 1 of the Class 3 exercise. Answer
 2. Write the command (or commands) that will create a file named 'hello-world.txt'.
 <your-answer-here>
 
-3. Write the command (or commands) that will create a folder named 'my-new-folder' in current directly.
+3. Write the command (or commands) that will create a folder named 'my-new-folder' in current directory.
 <your-answer-here>
 
 4. Write the command (or commands) that will attempt to delete a folder named 'my-nonexistent-folder' and display the following message when the commands fails: 'Whoops, cannot delete a folder that does not exist'.
