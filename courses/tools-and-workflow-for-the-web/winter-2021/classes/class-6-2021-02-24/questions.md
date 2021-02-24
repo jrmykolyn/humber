@@ -1,7 +1,7 @@
 # Questions
 
 ## Introduction
-Use this document as a starting point for the Class 5 exercise. Please note that these questions will test your knowledge of both the Git CLI and the command line in general.
+Use this document as a starting point for the Class 6 exercise. Please note that these questions will test your knowledge of both the Git CLI and the command line in general.
 
 ## Questions
 1. Assuming that you aren't sure whether you're currently inside of a Git repository, write the command (or commands) that will give you this information.
