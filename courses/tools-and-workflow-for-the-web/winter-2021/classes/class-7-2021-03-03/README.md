@@ -11,3 +11,6 @@ Start by coming up with _at least_ 3 trivia questions (for example: "Who created
 After you've setup the repository in GitHub, create a new branch to answer each question. Each branch must contain no more than one answer. This means that if you define 3 questions then you should have 3 branches, each with 1 answer. You're free to make these updates locally or directly in GitHub. If you choose to work locally please make sure to push _all_ of your branches to the remote repository before submitting the exercise.
 
 The subject matter for the questions is up to you, so feel free to have fun with them.
+
+## Part 2
+Part 2 of this exercise can be found here: https://github.com/jrmykolyn/branching-practice.
