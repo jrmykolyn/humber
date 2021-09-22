@@ -1,7 +1,7 @@
 # Questions
 
 ## Introduction
-Use this document as a starting point for the Class 4 exercise.
+Use this document as a starting point for the Introduction to Version Control exercise.
 
 ## Questions
 1. True or false: Version control is only useful for programming-related projects.
